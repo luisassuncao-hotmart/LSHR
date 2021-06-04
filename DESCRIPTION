@@ -21,7 +21,9 @@ Imports:
     Rcpp (>= 0.10.3),
     futile.logger (>= 1.4.3),
     matrixStats,
-    parallel
+    parallel,
+    ggplot2,
+    magrittr
 LinkingTo: 
     Rcpp
 Suggests:
